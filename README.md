@@ -19,3 +19,22 @@ I'm a self-taught passionate Full Stack developer from Ukraine 🇺🇦
 
 | <a href="https://github.com/andrewmarushko/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewmarushko&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmarushko&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+---
+
+## Support My Work
+
+If you like my work and want to support me, here are some ways you can do so:
+
+<a href="https://www.buymeacoffee.com/andrewmarushko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/andrewmarushko)
+
+### Get in Touch
+
+- 📧 Email: andrewmarushko@example.com
+- 💼 LinkedIn: [Andrew Marushko](https://www.linkedin.com/in/andrewmarushko)
+- 🐦 Twitter: [@andrewmarushko](https://twitter.com/andrewmarushko)
+- 💬 Telegram: [@andrewmarushko](https://t.me/andrewmarushko)
+
+---
